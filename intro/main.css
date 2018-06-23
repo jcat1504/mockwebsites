@@ -1,0 +1,45 @@
+    .world {
+        padding: 85px 0;
+        margin: 30px;
+        font-family: 'Helvetica', sans-serif;
+        color: #ffffff;
+        background-image: url("https://globalenglishclubkhaskempek.files.wordpress.com/2014/11/japan.jpg");
+        background-size: cover;
+    }
+    
+    .border {
+        outline: 6px solid rgb(131, 103, 103);
+        display: block;
+        margin: 0px;
+    }
+    
+    .button {
+        cursor: pointer;
+        border-radius: 0px;
+        border: 0.5px;
+        border-style: solid;
+        border-color: black;
+        padding: 2px 12px;
+        color: red;
+        background-color: #ffffff;
+    }
+    
+    .button a:active {
+        top: 2px;
+    }
+    
+    .button a {
+        position: relative;
+    }
+    
+    .button {
+        float: center;
+    }
+    
+    .row {
+        flex-wrap: wrap;
+        align-items: left;
+        justify-content: center;
+        font-size: 0px;
+        margin: 0px;
+    }
