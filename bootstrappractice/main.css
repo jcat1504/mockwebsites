@@ -1,0 +1,38 @@
+.headline {
+    font-family: Helvetica, arial;
+    font-weight: 58px;
+    color: white;
+    font-size: 48px;
+    background-color: rgba(61, 57, 48, 0.507);
+    padding: 10px;
+}
+
+.husky {
+    position: relative;
+    height: 0px;
+    text-align: center;
+}
+
+.textwrap {
+    position: relative;
+    display: inline;
+    text-align: center;
+    vertical-align: top;
+}
+
+.bgcolor1 {
+    background-color: rgba(0, 0, 0, 0.582);
+    padding: 10px 20px 20px;
+}
+
+.container {
+    background-color: pink;
+}
+
+.bgcolor2 {
+    background-color: pink;
+    border: solid;
+    border-color: pink;
+    position: relative;
+    padding: 30px 10px;
+}
