@@ -3,7 +3,7 @@
     font-weight: 58px;
     color: white;
     font-size: 48px;
-    background-color: rgba(61, 57, 48, 0.507);
+    background-color: rgb(238, 190, 226);
     padding: 10px;
 }
 
@@ -21,18 +21,16 @@
 }
 
 .bgcolor1 {
-    background-color: rgba(0, 0, 0, 0.582);
+    background-color: rgba(101, 155, 226, 0.582);
     padding: 10px 20px 20px;
 }
 
 .container {
-    background-color: pink;
+    background-color: rgb(192, 255, 200);
 }
 
 .bgcolor2 {
-    background-color: pink;
-    border: solid;
-    border-color: pink;
+    background-color: rgb(192, 255, 200);
     position: relative;
     padding: 30px 10px;
 }
