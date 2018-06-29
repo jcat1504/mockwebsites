@@ -1,0 +1,44 @@
+.banner {
+    position: relative;
+    box-sizing: border-box;
+    margin-top: -20px;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-style: italic;
+    width: 700px;
+    margin: 0.25em 0;
+    padding: 0.35em 40px;
+    line-height: 1.65;
+    position: relative;
+    color: #333333dc;
+}
+
+blockquote:before {
+    display: block;
+    padding-left: 10px;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    color: #7a7a7a;
+}
+
+.types {
+    padding-left: 50px;
+    margin-top: 2px;
+    border: solid;
+    border-width: 0.5px;
+    color: rgba(243, 243, 245);
+    background: rgba(243, 243, 245);
+}
+
+.realcoffee {
+    border: solid;
+    border-width: 2px;
+    position: relative;
+    color: rgba(69, 45, 26);
+    background: rgba(69, 45, 26);
+}
