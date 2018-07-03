@@ -29,10 +29,22 @@ blockquote:before {
 .types {
     padding-left: 50px;
     margin-top: 2px;
-    border: solid;
-    border-width: 0.5px;
-    color: rgba(243, 243, 245);
+    margin-bottom: -10px;
+    padding-right: 4px;
+    float: left;
+    border-style: dash;
+    border-color: brown;
     background: rgba(243, 243, 245);
+}
+
+.border_text {
+    font-family: helvetica;
+    font-size: 18px;
+    text-align: center-justify;
+    padding-top: 20px;
+    background: rgba(243, 243, 245);
+    padding-bottom: 18%;
+    padding-right: 2em;
 }
 
 .realcoffee {
